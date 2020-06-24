@@ -1,0 +1,7 @@
+echo "# krascov" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/syroj/krascov.git
+git push -u origin master
+                
